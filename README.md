@@ -1,22 +1,22 @@
 <img src="https://c.tenor.com/FdkbSvSxI9MAAAAd/chilled-lamb-mienar.gif" width="100%" height="100%">
-<h1 align="center">Hi 👋, I'm Rishav Chanda</h1>
+<h1 align="center">Hi 👋, I'm Ritesh Jadhav </h1>
 <h3 align="center">A passionate FullStack Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/29/a8/37/29a8376d76e64b4e891a658a08cdda1a.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=THERITESHJADHAV&label=Profile%20views&color=0e75b6&style=flat" alt="riteshjadhav" /> </p>
 
-<p align="left"> <a href="https://twitter.com/rishavchanda" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="rishavchanda"  </p>
+<p align="left"> <a href="www.linkedin.com/in/ritesh-jadhav292005" target="blank"><img src="https://img.shields.io/twitter/follow/riteshjadhav?logo=twitter&style=for-the-badge" alt="riteshjadhav"  </p>
 
-- 🔭 I’m currently working on **Vexa Web App**
+- 🔭 I’m currently working on **Dine 360 App**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Web designing, Python, AI&ML, AR-VR**
 
-- 💬 Ask me about **Android , MEARN**
+- 💬 Ask me about **Frontend , MEARN**
 
-- 📫 How to reach me **rishavchanda0@gmail.com**
+- 📫 How to reach me **riteshjadhav.292005@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **Tech lover with a growth mindset!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
