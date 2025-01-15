@@ -46,11 +46,11 @@
 <h3 align="center">Tracing My Steps in the World of Code:</h3>
 <img src="https://profile-readme-generator.com/assets/snake.svg" width="100%" height="100%">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theriteshjadhav&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="RiteshJadhav" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theriteshjadhav&show_icons=true&locale=en&layout=compact" alt="theriteshjadhav" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theriteshjadhav&show_icons=true&locale=en&theme=tokyonight" alt="RiteshJadhav" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theriteshjadhav&show_icons=true&locale=en" alt="theriteshjadhav" /></p>
 
-<p><img align="center"src="https://github-readme-streak-stats.herokuapp.com/?user=theriteshjadhav&" alt="theriteshjadhav" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theriteshjadhav&" alt="theriteshjadhav" /></p>
 
 
 
