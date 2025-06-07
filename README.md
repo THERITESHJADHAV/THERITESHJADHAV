@@ -1,3 +1,4 @@
+<img src="https://github.com/THERITESHJADHAV/THERITESHJADHAV/blob/main/LinkedIn%20Banner.jpg" width="100%" height="100%">
 <img src="https://c.tenor.com/FdkbSvSxI9MAAAAd/chilled-lamb-mienar.gif" width="100%" height="100%">
 <h1 align="center">Hi 👋, I'm Ritesh Jadhav </h1>
 <h3 align="center">A passionate FullStack Developer from India</h3>
