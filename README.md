@@ -53,5 +53,12 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theriteshjadhav&" alt="theriteshjadhav" /></p>
 
+## 🧠 Contribution Graph
+
+<p align="center">
+  <a href="https://github.com/THERITESHADHAV">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=THERITESHJADHAV&theme=react-dark&hide_border=true&area=true" alt="GitHub Contribution Graph" />
+  </a>
+</p>
 
 
