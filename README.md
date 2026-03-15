@@ -51,8 +51,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> &nbsp;
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<h3 align="center">Tracing My Steps in the World of Code:</h3>
-<img src="https://profile-readme-generator.com/assets/snake.svg" width="100%" height="100%">
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theriteshjadhav&show_icons=true&locale=en&layout=compact" alt="theriteshjadhav" /></p>
 
