@@ -27,7 +27,7 @@
 - ⚡ Fun fact **Tech lover with a growth mindset!**
 
 - ⚡ Achievement **3x hackthon win**
-- 
+
 <h3 align="left">Connect with me:</h3>
 <table border="0">
   <tr>
