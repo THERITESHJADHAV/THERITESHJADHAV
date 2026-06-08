@@ -1,18 +1,23 @@
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00b4d8,100:0077b6&height=220&section=header&text=RITESH%20JADHAV&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20UI-UX%20%7C%20AI-ML%20%7C%20Data%20analyst&descSize=18&descAlignY=58&animation=fadeIn" />
+<br/>
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=650&lines=Where+clean+code+meets+intelligent+design.;MERN+Stack+%7C+Python+%7C+MongoDB+%7C+Figma;Turning+data+trends+into+user-centric+solutions.;Building+AI-powered+web+applications.)](https://git.io/typing-svg)
 
-<img src="https://c.tenor.com/FdkbSvSxI9MAAAAd/chilled-lamb-mienar.gif" width="100%" height="100%">
-<h1 align="center">Hi 👋, I'm Ritesh Jadhav </h1>
-<h3 align="center">A passionate FullStack Developer from India</h3>
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=THERITESHJADHAV&label=Profile+Views&color=00b4d8&style=for-the-badge" />
+&nbsp;
+<a href="https://www.linkedin.com/in/ritesh-jadhav292005"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+&nbsp;
+<a href="https://ritesh-jadhav-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-00b4d8?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+&nbsp;
+<a href="mailto:riteshjadhav.292005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+</div>
+
+---
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/29/a8/37/29a8376d76e64b4e891a658a08cdda1a.gif">
-
-<p align="left">
-  <a href="https://github.com/THERITESHJADHAV">
-    <img src="https://komarev.com/ghpvc/?username=THERITESHJADHAV&label=Profile+Views&color=blueviolet&style=flat" alt="Profile Views" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/THERITESHJADHAV?tab=followers">
-    <img src="https://img.shields.io/github/followers/THERITESHJADHAV?label=Follow&style=social" alt="GitHub Followers" />
-  </a>
-</p>
 
 
 
