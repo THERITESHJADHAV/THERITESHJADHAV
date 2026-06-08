@@ -42,31 +42,131 @@
   </tr>
 </table>
 
-<h3 align="left">Languages and Tools:</h3>
-<table border="0">
-  <tr>
-    <td><a href="https://www.w3schools.com/c/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a></td>
-    <td><a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a></td>
-    <td><a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a></td>
-    <td><a href="https://expressjs.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a></td>
-    <td><a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a></td>
-    <td><a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a></td>
-    <td><a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a></td>
-    <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a></td>
-    <td><a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a></td>
-    <td><a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a></td>
-    <td><a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a></td>
-    <td><a href="https://www.php.net"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a></td>
-    <td><a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a></td>
-    <td><a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a></td>
-    <td><a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a></td>
-  </tr>
+---
+## Tech Stack
+
+<div align="center">
+
+**Languages & Frontend**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Backend & APIs**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+**AI / ML & Data Engineering**
+
+![LLMs & RAG](https://img.shields.io/badge/LLMs_%26_RAG-FF6F61?style=for-the-badge&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3A?style=for-the-badge&logo=langchain&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+**Databases, Cloud & DevOps**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**UI/UX Design & Tools**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+
+---
+
+## Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ♻️ SmartWaste Platform (Eco-Air)
+**AI-Powered Waste Collection & E-Waste Disposal System**
+
+A comprehensive, full-stack waste management ecosystem bridging the gap between residents, municipal admins, businesses/societies, and waste collection vendors. Powered by Machine Learning for predictive heatmaps and route optimization, and built with a premium UI design system.
+
+`React` `Node.js & Express.js` `MongoDB` `Python & Flask` `Google Earth Engine (GEE)` `Scikit-learn` `OSRM API`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎤 AI Mock Interviewer
+**Composable-AI-Mock-Interviewer**
+
+An intelligent, adaptive interview platform powered by Google Gemini AI that helps candidates practice and improve their interview skills through real-time feedback and comprehensive performance analysis.
+
+`React` `Node.js & Express.js` `MongoDB` `Google Gemini API` `JWT (JSON Web Tokens)`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎥 Darpan-ai
+**AI Whiteboard Explainer Generator**
+
+It is an autonomous, full-stack pipeline that transforms any text, URL, or idea into a professional whiteboard animation video. It mimics a high-end production studio by automatically handling storyboarding, visual generation, hand-drawn animation, and voiceover orchestration.
+
+`Next.js` `Google Gemini 1.5` `OpenCV` `FFmpeg` `MongoDB` `gTTS` `Python`
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ PacketPulse
+**ML Cyber Attack Prediction System**
+
+A real-time, local network security system using Random Forest machine learning and deep packet inspection to predict cyber attacks, visualized through a Next.js threat dashboard with live audio-visual alerts.
+
+`Next.js` `Python & Flask` `Scikit-learn` `Scapy` `Web Audio API` `npcap-1.87`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### OmniMind
+**The Intelligent Second Brain**
+
+A high-performance SaaS platform using Gemini 2.5 Flash to automatically analyze, categorize, and route unstructured links and thoughts into authenticated Supabase databases with strict Row-Level Security protection.
+
+`Next.js 16` `Supabase` `Gemini 2.5 Flash` `TypeScript` `SaaS`
+
+</td>
+<td width="50%" valign="top">
+
+### IoT Safe House
+**Integrated Security & Monitoring System**
+
+End-to-end IoT home security solution with real-time multi-sensor monitoring, automated mobile alerts, and robust cloud synchronization built on Arduino and MIT App Inventor.
+
+`Arduino` `MIT App Inventor` `IoT Sensors` `Bluetooth` `Cloud`
+
+</td>
+</tr>
 </table>
 
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theriteshjadhav&show_icons=true&locale=en&layout=compact" alt="theriteshjadhav" /></p>
+## GitHub Analytics
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theriteshjadhav&show_icons=true&locale=en" alt="theriteshjadhav" /></p>
+
+---
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theriteshjadhav&" alt="theriteshjadhav" /></p>
 
