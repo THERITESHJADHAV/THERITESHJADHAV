@@ -195,6 +195,198 @@ End-to-end IoT home security solution with real-time multi-sensor monitoring, au
 
 ---
 
+## Achievements
+
+<div align="center">
+<table>
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <br/>
+      <img src="https://img.shields.io/badge/VNPS'26-2nd%20Place-00b4d8?style=for-the-badge&logo=espressif&logoColor=white" />
+      <br/><br/>
+      <b>Vidyavardhini's college of Engineering </b><br/>
+      <sub>April 2026</sub>
+      <br/><br/>
+      <p align="left">🏆 <b>National Project Showcase Competition (VNPS’26)</b></p>
+      <p align="left">Recognized for outstanding technical innovation and excellence. Evaluated and ranked <b>#2 out of 250+ elite engineering projects</b> nationwide.</p>
+      <br/>
+      <a href="https://drive.google.com/file/d/1qjgvftOzC0FuwGy1UrTIRxs1LqgaP4EV/view?usp=sharing"><img src="https://img.shields.io/badge/Verify%20Certificate-0077b6?style=flat-square&logo=link&logoColor=white" /></a>
+      <br/><br/>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <br/>
+      <img src="https://img.shields.io/badge/EWT--Pragati%202.0-2nd%20Runner's%20Up-00b4d8?style=for-the-badge&logo=espressif&logoColor=white" />
+      <br/><br/>
+      <b>Thakur College of Engineering (TCET)</b><br/>
+      <sub>April 2026</sub>
+      <br/><br/>
+      <p align="left">🏆 <b>EWT Pragati 2.0, Build-it On Innovation Challenge</b></p>
+      <p align="left">Awarded <b>Second Runner's Up</b> in a prestigious national-level project competition for engineering a high-impact, functional prototype from the ground up.</p>
+      <br/>
+      <a href="https://drive.google.com/file/d/1_O-8rqZXj38rwP8HKeCjea0jNdRD2pek/view?usp=sharing"><img src="https://img.shields.io/badge/Verify%20Certificate-0077b6?style=flat-square&logo=link&logoColor=white" /></a>
+      <br/><br/>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <br/>
+      <img src="https://img.shields.io/badge/EdQuest-1st%20Runner's%20Up-00b4d8?style=for-the-badge&logo=contentstack&logoColor=white" />
+      <br/><br/>
+      <b>EdQuest - Contentstack</b><br/>
+      <sub>March 2026</sub>
+      <br/><br/>
+      <p align="left">🏆 <b>Recreate: Design Hackathon</b></p>
+      <p align="left">Clinched <b>First Runner’s Up</b> by architecting a high-fidelity, production-ready scalable product solution engineered from scratch under intense 24-hour constraints.</p>
+      <br/>
+      <a href="https://drive.google.com/file/d/1ZYEU_i7Yfc5KPMj1KeyjEFsd8CG3HSz2/view?usp=sharing"><img src="https://img.shields.io/badge/Verify%20Certificate-0077b6?style=flat-square&logo=link&logoColor=white" /></a>
+      <br/><br/>
+    </td>
+  </tr>
+</table>
+</div>
+
+<div align="center">
+<table>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <br/>
+      <img src="https://img.shields.io/badge/MOCKUP%205.0-Winner-00b4d8?style=for-the-badge&logo=figma&logoColor=white" />
+      <br/><br/>
+      <b>Manipal University Jaipur</b><br/>
+      <sub>February 2026</sub>
+      <br/><br/>
+      <p align="left">🏆 <b>National-Level System Design & Prototyping Design Hackathon</b></p>
+      <p align="left">Declared the <b>Grand Winner</b> after outperforming nationwide participants in a high-stakes, competitive arena centered on advanced UI/UX architecture and scalable system design.</p>
+      <br/>
+      <a href="https://drive.google.com/file/d/15A7hJ1_sPyyKLVoqyuGW9L2veef9owAQ/view?usp=sharing"><img src="https://img.shields.io/badge/Verify%20Certificate-0077b6?style=flat-square&logo=link&logoColor=white" /></a>
+      <br/><br/>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <br/>
+      <img src="https://img.shields.io/badge/IIT%20Bhubaneswar-Top%2015-00b4d8?style=for-the-badge&logo=github&logoColor=white" />
+      <br/><br/>
+      <b>IIT Bhubaneswar</b><br/>
+      <sub>January 2025</sub>
+      <br/><br/>
+      <p align="left">🏆 <b>Frontend Vibe Coding Competition</b></p>
+      <p align="left">Ranked in the **Top 15 out of 5,000+ elite developers** nationwide, demonstrating masterful frontend engineering speed and architectural execution under pressure.</p>
+      <br/>
+      <a href="https://drive.google.com/file/d/1nj-ShBUNk0sfLCuHvjJAqX5IOp52F8i9/view?usp=sharing"><img src="https://img.shields.io/badge/Verify%20Certificate-0077b6?style=flat-square&logo=link&logoColor=white" /></a>
+      <br/><br/>
+    </td>
+  </tr>
+</table>
+</div>
+
+---
+
+## Certifications
+
+<div align="center">
+<table>
+  <tr>
+    <td width="25%" valign="top" align="center">
+      <br/>
+      <img src="https://img.shields.io/badge/Embedded_C-Specialization-00599C?style=for-the-badge&logo=coursera&logoColor=white" />
+      <br/><br/>
+      <b>Embedded Software Development</b><br/>
+      <sub>EDUCBA • Jan 2026</sub>
+      <br/><br/>
+      <p align="left">Focuses on microcontroller interfacing, RTOS implementation, and optimizing ARM Cortex (STM32) embedded firmware.</p>
+      <br/>
+      <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/1R4GZ1905B9C"><img src="https://img.shields.io/badge/Verify-0077b6?style=flat-square&logo=link&logoColor=white" /></a>
+      <br/><br/>
+    </td>
+    <td width="25%" valign="top" align="center">
+      <br/>
+      <img src="https://img.shields.io/badge/Net_Security-Google-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+      <br/><br/>
+      <b>Network Security</b><br/>
+      <sub>Google • Jan 2026</sub>
+      <br/><br/>
+      <p align="left">Covers network architecture, system hardening, intrusion detection, and traffic analysis using Wireshark and Python.</p>
+      <br/>
+      <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/3YZXON8H39U0"><img src="https://img.shields.io/badge/Verify-0077b6?style=flat-square&logo=link&logoColor=white" /></a>
+      <br/><br/>
+    </td>
+    <td width="25%" valign="top" align="center">
+      <br/>
+      <img src="https://img.shields.io/badge/Cybersecurity-Google-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+      <br/><br/>
+      <b>Google Cybersecurity</b><br/>
+      <sub>Google • Dec 2024</sub>
+      <br/><br/>
+      <p align="left">Comprehensive training in security foundations, network defense, incident response, SIEM tools, and threat analysis.</p>
+      <br/>
+      <a href="https://www.coursera.org/account/accomplishments/professional-cert/certificate/3IWBPPPGNL0S"><img src="https://img.shields.io/badge/Verify-0077b6?style=flat-square&logo=link&logoColor=white" /></a>
+      <br/><br/>
+    </td>
+    <td width="25%" valign="top" align="center">
+      <br/>
+      <img src="https://img.shields.io/badge/Embedded_Systems-NIELIT-009688?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+      <br/><br/>
+      <b>Embedded for Beginners</b><br/>
+      <sub>NIELIT • Jan 2026</sub>
+      <br/><br/>
+      <p align="left">Practical foundation in embedded system architectures, microcontroller peripheral interfacing, and register-level firmware development.</p>
+      <br/>
+      <a href="https://drive.google.com/file/d/1qw5usyJmOBO2qCJsP5-ultjJVEGMqGqH/view?usp=sharing"><img src="https://img.shields.io/badge/Verify-0077b6?style=flat-square&logo=link&logoColor=white" /></a>
+      <br/><br/>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top" align="center">
+      <br/>
+      <img src="https://img.shields.io/badge/MATLAB_&_Simulink-NIELIT-E16707?style=for-the-badge&logo=mathworks&logoColor=white" />
+      <br/><br/>
+      <b>MATLAB & Simulink</b><br/>
+      <sub>NIELIT • Jan 2026</sub>
+      <br/><br/>
+      <p align="left">Covers modeling, system simulation, signal processing design, and programmatic control system workflows in MATLAB/Simulink.</p>
+      <br/>
+      <a href="https://drive.google.com/file/d/16nhockD5kRZoNQPoVYHrdBySHiFJ_0Tm/view?usp=sharing"><img src="https://img.shields.io/badge/Verify-0077b6?style=flat-square&logo=link&logoColor=white" /></a>
+      <br/><br/>
+    </td>
+    <td width="25%" valign="top" align="center">
+      <br/>
+      <img src="https://img.shields.io/badge/LabVIEW-Expedition-009432?style=for-the-badge&logo=nationalinstruments&logoColor=white" />
+      <br/><br/>
+      <b>LabVIEW & EasyDAQ</b><br/>
+      <sub>Expedition • Oct 2025</sub>
+      <br/><br/>
+      <p align="left">In-depth training in graphical system design, high-frequency data acquisition systems, and robust analog/digital sensor interfacing.</p>
+      <br/>
+      <a href="https://drive.google.com/file/d/1adpmKrQ1yII4na68fopUakKliWq5C0De/view?usp=sharing"><img src="https://img.shields.io/badge/Verify-0077b6?style=flat-square&logo=link&logoColor=white" /></a>
+      <br/><br/>
+    </td>
+    <td width="25%" valign="top" align="center">
+      <br/>
+      <img src="https://img.shields.io/badge/Gen_AI_&_Sec-Workshop-6C5CE7?style=for-the-badge&logo=openai&logoColor=white" />
+      <br/><br/>
+      <b>AI & Ethical Hacking</b><br/>
+      <sub>Workshop • Jan 2025</sub>
+      <br/><br/>
+      <p align="left">Trained in vulnerability assessment, penetration testing, and leveraging generative AI models for offensive/defensive security.</p>
+      <br/>
+      <a href="https://drive.google.com/file/d/13SHREXtdaO0qgkycCP7ZCFeVok7aghCo/view?usp=sharing"><img src="https://img.shields.io/badge/Verify-0077b6?style=flat-square&logo=link&logoColor=white" /></a>
+      <br/><br/>
+    </td>
+    <td width="25%" valign="top" align="center">
+      <br/>
+      <img src="https://img.shields.io/badge/Data_Science-Bootcamp-FF7675?style=for-the-badge&logo=pandas&logoColor=white" />
+      <br/><br/>
+      <b>Data Science Bootcamp</b><br/>
+      <sub>Bootcamp • Completed</sub>
+      <br/><br/>
+      <p align="left">Intensive training in Python data analysis libraries, exploratory data analysis, and predictive machine learning models.</p>
+      <br/>
+      <a href="https://drive.google.com/file/d/1R6BGsl1JRmzyFFCswIEFkPg0ulpxLJea/view?usp=sharing"><img src="https://img.shields.io/badge/Verify-0077b6?style=flat-square&logo=link&logoColor=white" /></a>
+      <br/><br/>
+    </td>
+  </tr>
+</table>
+</div>
+
+---
+
 ## 🧠 Contribution Graph
 
 <p align="center">
