@@ -164,11 +164,25 @@ End-to-end IoT home security solution with real-time multi-sensor monitoring, au
 
 ## GitHub Analytics
 
+<p align="center">
+  <a href="https://github.com/THERITESHJADHAV">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=THERITESHJADHAV&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=THERITESHJADHAV&layout=compact&langs_count=8&theme=dark"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/THERITESHJADHAV">
+    <img src="https://github-stats-alpha.vercel.app/api/?username=THERITESHJADHAV&cc=000000&tc=FFFFFF&ic=000000&theme=dark&animation=true" alt="Stats" style="vertical-align: middle; margin: 5px;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=THERITESHJADHAV&theme=dark&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF" alt="THERITESHJADHAV" style="vertical-align: middle; margin: 5px;" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=THERITESHJADHAV&theme=dark&animation=true" alt="Profile Summary Card" />
+</p>
 
 ---
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theriteshjadhav&" alt="theriteshjadhav" /></p>
 
 ## 🧠 Contribution Graph
 
